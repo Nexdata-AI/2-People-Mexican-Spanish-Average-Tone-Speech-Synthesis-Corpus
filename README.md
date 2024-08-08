@@ -2,7 +2,7 @@
 
 ## Description
 2 People - Mexican Spanish Average Tone Speech Synthesis Corpus. It is recorded by rn native Mexican, with authentic accent, Covering both customer service and general styles. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1364?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1364?source=Github
 
 
 ## Format
